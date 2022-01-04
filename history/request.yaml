@@ -1,5 +1,5 @@
-data_ready: false
+data_ready: true
 data_stream: RS03INT1-MJ03C-10-TRHPHA301-streamed-trhph_sample
 last_request: '2022-01-04T19:30:08.106005Z'
 response: https://raw.githubusercontent.com/ooi-data/RS03INT1-MJ03C-10-TRHPHA301-streamed-trhph_sample/main/history/response.json
-status: pending
+status: success
